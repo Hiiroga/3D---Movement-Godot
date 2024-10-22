@@ -1,0 +1,11 @@
+Model Information:
+* title:	Genshin impact - Nahida
+* source:	https://sketchfab.com/3d-models/genshin-impact-nahida-1d8000bbbdf84b8087dbdd3f222826db
+* author:	X9_YT (https://sketchfab.com/X9_YT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Genshin impact - Nahida" (https://sketchfab.com/3d-models/genshin-impact-nahida-1d8000bbbdf84b8087dbdd3f222826db) by X9_YT (https://sketchfab.com/X9_YT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
